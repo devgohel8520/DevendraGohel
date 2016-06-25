@@ -22,3 +22,8 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.body-start{
+    padding-top:10px;
+    background-color:#F1F1F1;
+}
